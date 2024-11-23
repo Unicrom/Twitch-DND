@@ -1,0 +1,53 @@
+{
+  "weapon": {
+    "sword": {
+      "wood": {
+        "display": "Wooden Sword",
+        "rarity": "Common",
+        "desc": "A crude but sturdy training weapon, this wooden sword is often used by novice adventurers or children pretending to be knights. Despite its humble material, it can still deliver a solid strike and might even hold enchantments hidden within its unassuming form."
+      }
+    },
+    "bow": {
+      "wood": {
+        "display": "Wooden Bow",
+        "rarity": "Common",
+        "desc": "Crafted from a single piece of supple wood, this simple bow is favored by fledgling archers. Though unadorned, its smooth curve and taut string make it reliable for hunting small game or fending off minor threats in the wild."
+      },
+      "grand": {
+        "display": "Grand Bow",
+        "rarity": "Epic",
+        "desc": "A masterpiece of craftsmanship, this elegant bow is reinforced with fine materials and adorned with intricate carvings. Its string hums with latent power, making it a weapon worthy of skilled archers and capable of striking true even at great distances."
+      }
+    }
+  },
+  "armor": {
+    "helmet": {
+      "leather": {
+        "display": "Leather Cap",
+        "rarity": "Common",
+        "desc": "This snug, weathered cap is made from tanned leather and offers modest protection for the head. While it won't stop a blade, it shields against the elements and gives its wearer a rugged, adventurer's look."
+      }
+    },
+    "brest": {
+      "leather": {
+        "display": "Leather Breastplate",
+        "rarity": "Common",
+        "desc": "A hardened piece of tanned leather shaped to fit the torso, this breastplate provides lightweight protection without restricting movement. Perfect for rogues, rangers, or anyone seeking a balance between defense and agility."
+      }
+    },
+    "leg": {
+      "leather": {
+        "display": "Leather Leggings",
+        "rarity": "Common",
+        "desc": "Crafted from flexible yet durable leather, these leggings offer comfort and protection for the lower body. Ideal for long journeys or skirmishes, they're favored by adventurers who value mobility over heavy armor."
+      }
+    },
+    "boots": {
+      "leather": {
+        "display": "Leather Boots",
+        "rarity": "Common",
+        "desc": "These sturdy boots are made from toughened leather, designed to endure harsh terrain and long travels. They provide reliable footing and a touch of protection, favored by adventurers and wanderers alike."
+      }
+    }
+  }
+}

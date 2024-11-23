@@ -1,0 +1,49 @@
+{
+  "levels": {
+    "defense": 1,
+    "strength": 1,
+    "magic": 1,
+    "speed": 1,
+    "luck": 1,
+    "charisma": 1
+  },
+  "levelPoints": 10,
+  "skills": {
+    "Crafting": 1,
+    "Enchanting": 1,
+    "Fighting": 1,
+    "Archery": 1,
+    "Magic": 1,
+    "Brewing": 1
+  },
+  "inventory": [
+    {
+      "item": "sword-wood",
+      "type": "weapon",
+      "amount": 1,
+      "level": 1,
+      "equipped": 1
+    },
+    {
+      "item": "helmet-wood",
+      "type": "armor",
+      "amount": 1,
+      "level": 1,
+      "equipped": 2
+    },
+    {
+      "item": "chest-wood",
+      "type": "armor",
+      "amount": 1,
+      "level": 1,
+      "equipped": 3
+    },
+    {
+      "item": "leg-wood",
+      "type": "armor",
+      "amount": 1,
+      "level": 1,
+      "equipped": 4
+    }
+  ]
+}

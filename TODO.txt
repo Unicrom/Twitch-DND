@@ -1,0 +1,23 @@
+GAME FEATURES I WANT TO ADD:
+- Crafting
+- Trading
+- Parties
+- Enemies
+- Resource Gathering
+- Boss Fights
+- Accessories
+- Skill Tree
+- Randomly Generating Map Base on Seed
+- Boss
+
+DISCORD INTEGRATION:
+- Giant feature book
+- Party System
+- Saving System
+- Taverns
+
+TWITCH INTEGRATION:
+- Render Map
+- Allow for donations to trigger events or spawn things
+- Connect twitch accounts to discord accounts
+- Channel point rewards like focusing on someone.
